@@ -19,6 +19,7 @@ Software Development: Applied best practices in software development and testing
 
 
 TASK2: TRANSLATOR
+
  I’ve developed a simple and efficient language translation tool using machine translation techniques. This tool allows users to translate text from one language to another by simply inputting the language name instead of codes, making it more user-friendly.
 🔧 Task Overview:
 Utilized Google’s googletrans library to translate text based on language names.
@@ -28,7 +29,8 @@ Python Programming
 Machine Translation
 Error Handling and User Input Management
 
-TASK3: 
+TASK3: OBJECT DETECTION
+
 This task is about building a Real-Time Object Detection and Tracking System using deep learning models like Faster R-CNN. 🎯 This project involves detecting and tracking objects in live video streams, enabling real-time insights through advanced computer vision techniques.
 🔍 Task Overview:
 Developed a system capable of detecting and tracking objects in real-time.
